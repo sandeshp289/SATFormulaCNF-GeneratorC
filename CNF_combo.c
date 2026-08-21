@@ -3,8 +3,8 @@
 // Language   : C/C++
 // Description: SAT Formula (CNF) Generator for Combinational circuits 
 // Author     : Sandesh Prabhakar
-// Created    : December 8, 2007
-// Modified   : August 15, 2026
+// Created    : February 8, 2009
+// Modified   : August 21, 2026
 // Version    : 1.0
 //
 // Copyright (c) 2026 Sandesh Prabhakar
